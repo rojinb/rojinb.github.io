@@ -1,0 +1,58 @@
+.site-header {
+    background-color: rgba(85, 85, 85, 0.15);
+}
+
+body {
+    background-color: $body-color;
+}
+
+section.card {
+    background-color: $section-color;
+    margin: 40px 0;
+    padding: 40px;
+    box-shadow: 0 0 0 0, 0 0px 25px rgba(34, 34, 34, 0.15);
+    border-radius: 3px;
+    position: relative;
+    .decal {
+        position: absolute;
+        right: 35px;
+        top: 25px;
+        max-width: 50px;
+        max-height: 50px;
+        opacity: 0.3;
+    }
+    p {
+        margin: 0;
+    }
+    .card-content {
+        h1 {
+            font-weight: bold;
+            line-height: 1.95em;
+            margin-top: 20px;
+            margin-bottom: 5px;
+            img {
+                height: 35px;
+                margin-left: 5px;
+            }
+        }
+        h2 {
+            margin-bottom: 5px;
+            color: $secondary-color;
+            line-height: 2.0em;
+            font-size: 1.3em;
+        }
+        h3 {
+            margin: 0;
+        }
+        em {
+            float: right;
+            color: $secondary-color;
+            line-height: 2.0em;
+        }
+    }
+}
+
+header.card-title {
+    display: inline;
+    font-size: 1.3em;
+}

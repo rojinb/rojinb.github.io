@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "hello world!"
+date:   2018-10-07 19:40:44 -0700
+categories: practicing
+---
+
+This is a ppractice post markdown using `hello world` style things!
+
+Writin some code snippits to test things out.
+{% highlight python %}
+def sayhello(hi):
+  print(hi)
+  print('Bye')
+{% endhighlight %}
+
+Lets see if the code snip works! `Does it?`
