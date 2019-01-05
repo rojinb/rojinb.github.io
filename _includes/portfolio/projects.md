@@ -1,4 +1,4 @@
-# BreakFast Buddy [![GitHub Logo](/assets/img/git.png)](http://github.com/rojinb)
+# BreakFast Buddy [![GitHub Logo](/assets/img/git.png)](https://github.com/rojinb/breakfast-buddy)
 *11/18*  
 A mobile friendly web app for users to find and view the location, hours of operation, menu and other features of all brunch restaurants near them. This was a group project for Relational Databases course. I took on building all the back-end and the queries required to interact with the database.
 
@@ -11,12 +11,12 @@ A UNIX-style OS with scheduler, memory manager, and file system. This was a proj
 
 
 
-# FTP Client and Server [![GitHub Logo](/assets/img/git.png)](http://github.com/rojinb)
+# FTP Client and Server [![GitHub Logo](/assets/img/git.png)](https://github.com/rojinb/ftp)
 *3/17*  
 A FTP client and server to perform basic file transfer operations over the network. C
 
 
-# Image Restoration [![GitHub Logo](/assets/img/git.png)](http://github.com/rojinb)
+# Image Restoration [![GitHub Logo](/assets/img/git.png)](https://github.com/rojinb/pca)
 *2/17*  
 A program to perform image restoration such as removing objects from the foreground. This was a project for Machine Leaning where we used PCA to fit a model to 4096 images, adjusting for the parameter values, and expanding on the model to obtain the restored image. Python
 
