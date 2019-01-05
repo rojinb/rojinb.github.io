@@ -1,7 +1,7 @@
 # University of British Columbia
 *9/13 - 12/18*
 ## BSc Major Computer Science
-* 89% overall average
+* 89% (A) overall average (3.55 GPA)
 
 Co-op work placements:
 * AppNeta Inc
